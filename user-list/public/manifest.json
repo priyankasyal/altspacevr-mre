@@ -1,0 +1,8 @@
+  
+{
+    "name": "Entering in",
+    "description": "Help us understand who have attended an event",
+    "author": "Priyanka Syal",
+    "license": "GPL-3.0-or-later",
+    "optionalPermissions": ["user-tracking", "user-interaction"]
+}
